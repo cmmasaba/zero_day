@@ -21,3 +21,4 @@ and assigns the permissions you specified to the file.
 Finally, it opens the file in Vim, ready for your input.
 No more boring and repetitive tasks for you, less chance of 
 making mistakes.
+Success.txt is a testimony of the work of the script.
