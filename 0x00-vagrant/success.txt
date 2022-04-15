@@ -1,0 +1,3 @@
+Just created a bash script that automates
+the creation of a file and adding permissions.
+This file was created using the script, let's goo!
