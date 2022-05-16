@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *  * main - Solve me
- *   *
- *    * Return: Always 0.
- *     */
+ * main - Solve me
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
 	int a[5];
