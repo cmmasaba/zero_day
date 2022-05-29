@@ -19,6 +19,7 @@ The following files are contained in this project and a brief description
 |pointer-arithmetics.c| a program with examples of pointer arithmetics|
 |pointers-and-functions.c| a program illustrating how pointers are used with functions|
 |number_of_days.c| a program that calculates the number of days elapsed between two dates|
+|word_count.c| a program that counts the number of words in a string passed to it as argument|
 
 ###### Contributors ######
 Collins Mmasaba `email:`<collins.mmasaba@azubiafrica.org>
